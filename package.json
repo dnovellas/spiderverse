@@ -1,0 +1,25 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Practica #2 de la semana #3 de la misión de NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnovellas/spiderverse.git"
+  },
+  "keywords": [
+    "spiderverse"
+  ],
+  "author": "David Novella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnovellas/spiderverse/issues"
+  },
+  "homepage": "https://github.com/dnovellas/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
